@@ -21,18 +21,18 @@ weight = 1
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "PhD in Information Systems and Computer"
+  course = "PhD in Information Systems and Computer Engineering"
   institution = "Instituto Superior Técnico"
     year = "2016-present day"
 
 
 [[education.courses]]
-  course = "MSc in Information Systems and Computer"
+  course = "MSc in Information Systems and Computer Engineering"
   institution = "Instituto Superior Técnico"
   year = "2014-2016"
 
 [[education.courses]]
-  course = "BSc in Information Systems and Computer"
+  course = "BSc in Information Systems and Computer Engineering"
   institution = "Instituto Superior Técnico"
   year = "2011-2014"
  
@@ -42,6 +42,6 @@ weight = 1
 
 Alexandre Lemos is a PhD student at IST, currently working on Re-solving Hard Computational Problems. At this moment the major focuses is on re-solving the university timetabling problem.
 
-I am currently teaching the practical classes of [Object Oriented Programming](https://fenix.tecnico.ulisboa.pt/disciplinas/PO6517957/2018-2019/1-semestre) at the Department of Computer Science and Engineering of IST.
+He is currently teaching the practical classes of [Object Oriented Programming](https://fenix.tecnico.ulisboa.pt/disciplinas/PO6517957/2018-2019/1-semestre) at the Department of Computer Science and Engineering of IST.
 
 For his master thesis, Alexandre worked on Repairing Biological Networks using ASP and SAT based tools.
