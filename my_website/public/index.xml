@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandre Lemos on Alexandre Lemos</title>
+    <link>http://web.ist.utl.pt/ist173316/</link>
+    <description>Recent content in Alexandre Lemos on Alexandre Lemos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Alexandre Lemos</copyright>
+    <lastBuildDate>Thu, 10 May 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/ist173316/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>YEASTRACT: an upgraded database for the analysis of transcription regulatory networks in Saccharomyces cerevisiae</title>
+      <link>http://web.ist.utl.pt/ist173316/publication/yeastract/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/publication/yeastract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASP based tool to Repair Boolean Networks from time-series data</title>
+      <link>http://web.ist.utl.pt/ist173316/project/asptool/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/project/asptool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Room Usage Optimization in Timetabling:  A Case Study at Universidade de Lisboa</title>
+      <link>http://web.ist.utl.pt/ist173316/project/ilp/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/project/ilp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inference in Biological Regulatory Networks</title>
+      <link>http://web.ist.utl.pt/ist173316/publication/thesis/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/publication/thesis/</guid>
+      <description>&lt;p&gt;The thesis was supervised by Professors Inês Lynce and Pedro Monteiro&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Repairing Boolean regulatory networks using Answer Set Programming</title>
+      <link>http://web.ist.utl.pt/ist173316/publication/repair/</link>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/publication/repair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Room usage optimization in timetabling: A case study at Universidade de Lisboa</title>
+      <link>http://web.ist.utl.pt/ist173316/publication/timetables/</link>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/publication/timetables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repairing Boolean regulatory networks using Answer Set Programming</title>
+      <link>http://web.ist.utl.pt/ist173316/publication/tec/</link>
+      <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/publication/tec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> ASP and MaxSAT encodings for Repairing steady state Boolean Networks</title>
+      <link>http://web.ist.utl.pt/ist173316/project/sattool/</link>
+      <pubDate>Wed, 27 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/project/sattool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BARISTA - Interactive Bar Table</title>
+      <link>http://web.ist.utl.pt/ist173316/project/bar/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/project/bar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IST Wallet</title>
+      <link>http://web.ist.utl.pt/ist173316/project/wallet/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/project/wallet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NASC</title>
+      <link>http://web.ist.utl.pt/ist173316/project/nasc/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/project/nasc/</guid>
+      <description>&lt;p&gt;A new version of the Scrabble board game in Java for Windows, Mac and Linux.  In collaboration with João Luís and João Carraquico.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PADI Map No Reduce </title>
+      <link>http://web.ist.utl.pt/ist173316/project/padi/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/project/padi/</guid>
+      <description>&lt;p&gt;A simplified implementation of the Map Reduce middleware and programming model in C# for the Design and Implementation of Distributed Applications course. This work was developed in collaboration with João Luís e João Carraquico.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Participation in 2019 Data61 International Optimisation Summer School</title>
+      <link>http://web.ist.utl.pt/ist173316/talk/summerschoolkioloa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/talk/summerschoolkioloa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Participation in EAIA 2018 - DS4BD Advanced School on Data Science for Big Data</title>
+      <link>http://web.ist.utl.pt/ist173316/talk/summerschoolporto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/talk/summerschoolporto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Participation in SAT/SMT/AR Summer School 2016</title>
+      <link>http://web.ist.utl.pt/ist173316/talk/summerschool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/talk/summerschool/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

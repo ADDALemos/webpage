@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Alexandre Lemos</title>
+    <link>http://web.ist.utl.pt/ist173316/publication/</link>
+    <description>Recent content in Publications on Alexandre Lemos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Alexandre Lemos</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://web.ist.utl.pt/ist173316/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>YEASTRACT: an upgraded database for the analysis of transcription regulatory networks in Saccharomyces cerevisiae</title>
+      <link>http://web.ist.utl.pt/ist173316/publication/yeastract/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/publication/yeastract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inference in Biological Regulatory Networks</title>
+      <link>http://web.ist.utl.pt/ist173316/publication/thesis/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/publication/thesis/</guid>
+      <description>The thesis was supervised by Professors Inês Lynce and Pedro Monteiro</description>
+    </item>
+    
+    <item>
+      <title>Repairing Boolean regulatory networks using Answer Set Programming</title>
+      <link>http://web.ist.utl.pt/ist173316/publication/repair/</link>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/publication/repair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Room usage optimization in timetabling: A case study at Universidade de Lisboa</title>
+      <link>http://web.ist.utl.pt/ist173316/publication/timetables/</link>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/publication/timetables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repairing Boolean regulatory networks using Answer Set Programming</title>
+      <link>http://web.ist.utl.pt/ist173316/publication/tec/</link>
+      <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/publication/tec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

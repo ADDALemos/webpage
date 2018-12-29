@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ilp on Alexandre Lemos</title>
+    <link>http://web.ist.utl.pt/ist173316/tags/ilp/</link>
+    <description>Recent content in Ilp on Alexandre Lemos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Alexandre Lemos</copyright>
+    <lastBuildDate>Mon, 27 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://web.ist.utl.pt/ist173316/tags/ilp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Room Usage Optimization in Timetabling:  A Case Study at Universidade de Lisboa</title>
+      <link>http://web.ist.utl.pt/ist173316/project/ilp/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/project/ilp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

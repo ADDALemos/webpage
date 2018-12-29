@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Alexandre Lemos</title>
+    <link>http://web.ist.utl.pt/ist173316/home/</link>
+    <description>Recent content in Homes on Alexandre Lemos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Alexandre Lemos</copyright>
+    <lastBuildDate>Thu, 10 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://web.ist.utl.pt/ist173316/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://web.ist.utl.pt/ist173316/home/about/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/home/about/</guid>
+      <description>Biography Alexandre Lemos is a PhD student at IST, currently working on Re-solving Hard Computational Problems. At this moment the major focuses is on re-solving the university timetabling problem.
+I am currently teaching the practical classes of Object Oriented Programming at the Department of Computer Science and Engineering of IST.
+For his master thesis, Alexandre worked on Repairing Biological Networks using ASP and SAT based tools.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://web.ist.utl.pt/ist173316/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference and Schools</title>
+      <link>http://web.ist.utl.pt/ist173316/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://web.ist.utl.pt/ist173316/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://web.ist.utl.pt/ist173316/home/teaching/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/home/teaching/</guid>
+      <description> 2018-2019 (Fall Semester) - practical classes of Object-Oriented Programming at the Department of Computer Science and Engineering of IST (Alameda campus) 2017-2018 (Spring semester) - practical classes of Compilers at the Department of Computer Science and Engineering of IST (Alameda campus)  </description>
+    </item>
+    
+    <item>
+      <title>Previous Experience</title>
+      <link>http://web.ist.utl.pt/ist173316/home/exp/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/home/exp/</guid>
+      <description>Sub-reviewer Principles and Practice of Constraint Programming 2018. Sub-reviewer Iberoamerican Journal of Artificial Inteligence 2017. Sub-reviewer EPIA 2017. 04 2017 - present day: Research grant from ULisboa, IST and DEI. 10 2016 - 03 2017: Research grant in the project Deciphering the mechanisms of transcriptional regulation that control anti-fungal drug resistance in pathogenic yeast Candida glabrata: aiming at the development of improved diagnosis and therapeutic. 10 2015 - 12 2015: Research grant in the project DataStorm Large �Scale Data Management in Cloud Environments.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://web.ist.utl.pt/ist173316/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

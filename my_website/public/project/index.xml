@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Alexandre Lemos</title>
+    <link>http://web.ist.utl.pt/ist173316/project/</link>
+    <description>Recent content in Projects on Alexandre Lemos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Alexandre Lemos</copyright>
+    <lastBuildDate>Mon, 27 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://web.ist.utl.pt/ist173316/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ASP based tool to Repair Boolean Networks from time-series data</title>
+      <link>http://web.ist.utl.pt/ist173316/project/asptool/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/project/asptool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Room Usage Optimization in Timetabling:  A Case Study at Universidade de Lisboa</title>
+      <link>http://web.ist.utl.pt/ist173316/project/ilp/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/project/ilp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> ASP and MaxSAT encodings for Repairing steady state Boolean Networks</title>
+      <link>http://web.ist.utl.pt/ist173316/project/sattool/</link>
+      <pubDate>Wed, 27 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/project/sattool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BARISTA - Interactive Bar Table</title>
+      <link>http://web.ist.utl.pt/ist173316/project/bar/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/project/bar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IST Wallet</title>
+      <link>http://web.ist.utl.pt/ist173316/project/wallet/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/project/wallet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NASC</title>
+      <link>http://web.ist.utl.pt/ist173316/project/nasc/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/project/nasc/</guid>
+      <description>A new version of the Scrabble board game in Java for Windows, Mac and Linux. In collaboration with João Luís and João Carraquico.</description>
+    </item>
+    
+    <item>
+      <title>PADI Map No Reduce </title>
+      <link>http://web.ist.utl.pt/ist173316/project/padi/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/project/padi/</guid>
+      <description>A simplified implementation of the Map Reduce middleware and programming model in C# for the Design and Implementation of Distributed Applications course. This work was developed in collaboration with João Luís e João Carraquico.</description>
+    </item>
+    
+  </channel>
+</rss>

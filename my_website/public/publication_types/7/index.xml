@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on Alexandre Lemos</title>
+    <link>http://web.ist.utl.pt/ist173316/publication_types/7/</link>
+    <description>Recent content in 7 on Alexandre Lemos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Alexandre Lemos</copyright>
+    <lastBuildDate>Fri, 16 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://web.ist.utl.pt/ist173316/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Inference in Biological Regulatory Networks</title>
+      <link>http://web.ist.utl.pt/ist173316/publication/thesis/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/publication/thesis/</guid>
+      <description>The thesis was supervised by Professors Inês Lynce and Pedro Monteiro</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,220 @@
+baseurl = "http://web.ist.utl.pt/ist173316/"  # End your URL with a `/` trailing slash.
+title = "Alexandre Lemos"
+copyright = "&copy; 2018 Alexandre Lemos"
+theme = "academic"
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+
+# Enable comments by entering your Disqus shortname
+#disqusShortname = ""
+
+# Enable analytics by entering your Google Analytics tracking ID
+googleAnalytics = ""
+
+# Default language to use (if you setup multilingual support)
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+  name = "Alexandre Lemos"
+  role = "PhD Student"
+  organization = "Intituto Superior Técnico INESC-ID"
+  organization_url = ""
+  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+   avatar = "me.jpg"
+  email = "alexandre.lemos@tecnico.ulisboa.pt"
+  #address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  office_hours = "Wednesday  13:00 to 13:30"
+  #phone = "888 888 88 88"
+ # skype = "echo123"
+ # telegram = ""
+
+  # Enable Keybase in Contact section by entering your keybase.io username.
+  keybase = ""
+
+  # Date format (refer to Go's date format: http://flippinggodateformat.com )
+  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+  date_format = "Mon, Jan 2, 2006"
+
+  # Enable global LaTeX math rendering?
+  #   If false, you can enable it locally on a per page basis.
+  math = true
+
+  # Highlight.js options
+  #   highlight
+  #     Enable global source code highlighting?  If false, you can
+  #     override it for a particular page in that page's preamble.
+  #
+  #     Example: highlight = true
+  #
+  #   highlight_languages
+  #     Add support for highlighting additional languages. Support for
+  #     languages mentioned here will be included in all pages. You
+  #     can also set this variable for a particular page in that
+  #     page's preamble.
+  #
+  #     Example: highlight_languages = ["go", "lisp", "ocaml"]
+  #
+  #   highlight_style
+  #     Choose a different CSS style for highlighting source
+  #     code. Setting this option in a page's preamble has no
+  #     effect.
+  #
+  #     Example: highlight_style = "github-gist"
+  #
+  #   highlight_version
+  #     Choose the version of highlight.js you want. Setting this
+  #     option in a page's preamble has no effect.
+  #
+  #     Example: highlight_version = "9.9.0"
+  #
+  #   For the list of supported languages, styles, and versions, see:
+  #   https://cdnjs.com/libraries/highlight.js/
+  #
+  #   For more info on the highlighting options, see:
+  #   https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/#highlighting-options
+  highlight = true
+  highlight_languages = []
+  # highlight_style = "github"
+  # highlight_version = "9.9.0"
+
+  # Enable native social sharing buttons?
+  sharing = true
+
+  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
+  custom_css = ["yellow.css"]
+  custom_js  = []
+
+  # Publication types.
+  #   Used to categorize publications.
+  #   The index of the publication type in the list is used as its unique numerical identifier.
+  #   The numeric ID is used in a publication's frontmatter to categorize it.
+  #   The language can be edited below.
+  #   For multi-lingual sites, copy this block to each language section at the end of this file.
+  publication_types = [
+    'Uncategorized',  # 0
+    'Conference proceedings',  # 1
+    'Journal',  # 2
+    'Work in progress',  # 3
+    'Technical report',  # 4
+    'Book',  # 5
+    'Book chapter',  # 6
+    'Thesis',  # 7
+  ]
+
+  # Social/Academic Networking
+  #
+  # Icon pack "fa" includes the following social network icons:
+  #
+  #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
+  #   youtube, instagram, soundcloud
+  #
+  #   For email icon, use "fa" icon pack, "envelope" icon, and
+  #   "mailto:your@email.com" as the link.
+  #
+  #   Full list: https://fortawesome.github.io/Font-Awesome/icons/
+  #
+  # Icon pack "ai" includes the following academic network icons:
+  #
+  #   google-scholar, arxiv, orcid, researchgate, mendeley
+  #
+  #   Full list: https://jpswalsh.github.io/academicons/
+
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:alexandre.lemos@tecnico.ulisboa.pt"
+
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.pt/citations?hl=en&user=LNgDDRoAAAAJ&view_op=list_works&citft=1&citft=2&email_for_op=Alexandre.D.Lemos%40gmail.com&gmla=AJsN-F4_k9MX7iXXcuiDHMEg1syH2eGnPNGKfWixNgdgwt6QkdQY0fQNlxPB4rOcVJNg_nT4OFChiSebkpFQ_K3Y7hRTo93-1VKmgxUjpcNBI9HLzXKFk-KkXC3mNxN_doR2hvgq1DnIVZWbtTadPoDuFGytPzzO8Qg7vGvn35kYKBk3Em-JIKDufcIGcFbsQTMFCP7gEqaIBuMNLvKYCCoTJHAcVCK8QjvPOOpStV6hZyAGYq0NHj6P6FmlmItU0J2lRWV5Hvy4"
+
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "https://orcid.org/0000-0002-3876-1011"
+    [[params.social]]
+        icon = "researchgate"
+        icon_pack = "ai"
+        link = "https://www.researchgate.net/profile/Alexandre_Lemos2"
+
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "https://github.com/ADDALemos"
+
+    [[params.social]]
+        icon = "linkedin"
+        icon_pack = "fa"
+        link = "https://www.linkedin.com/in/alexandre-lemos-a62bb4a4"
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "https://twitter.com/A_d_d_a_Lemos"
+     [[params.social]]
+        icon = "twitter"
+        icon_pack = "facebook"
+        link = "https://www.facebook.com/alexandre.lemos.52"
+
+
+
+
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[menu.main]]
+  name = "Home"
+  url = "#about"
+  weight = 1
+
+[[menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 2
+
+
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 3
+
+ [[menu.main]]
+    name = "Teaching"
+    url = "#teaching"
+    weight = 4
+
+[[menu.main]]
+  name = "Previous Experience"
+  url = "#exp"
+  weight = 5
+
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 6
+ [[menu.main]]
+    name = "CV.pdf"
+    url = "https://fenix.tecnico.ulisboa.pt/downloadFile/563568428773826/CV%20%281%29.pdf"
+  weight = 7
+
+# Taxonomies.
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+
+# Languages
+#   Create a [languages.X] block for each language you want, where X is the language ID.
+
+# Configure the English version of the website.
+[languages.en]
+  languageCode = "en-us"
+#[languages.pt]
+ # languageCode = "pt-pt"

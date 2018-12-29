@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asp on Alexandre Lemos</title>
+    <link>http://web.ist.utl.pt/ist173316/tags/asp/</link>
+    <description>Recent content in Asp on Alexandre Lemos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Alexandre Lemos</copyright>
+    <lastBuildDate>Mon, 27 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://web.ist.utl.pt/ist173316/tags/asp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ASP based tool to Repair Boolean Networks from time-series data</title>
+      <link>http://web.ist.utl.pt/ist173316/project/asptool/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/project/asptool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> ASP and MaxSAT encodings for Repairing steady state Boolean Networks</title>
+      <link>http://web.ist.utl.pt/ist173316/project/sattool/</link>
+      <pubDate>Wed, 27 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/project/sattool/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
