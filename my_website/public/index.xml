@@ -11,6 +11,15 @@
     <atom:link href="/ist173316/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Repairing Boolean logical models from time-series data using Answer Set Programming</title>
+      <link>http://web.ist.utl.pt/ist173316/publication/time-series/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.ist.utl.pt/ist173316/publication/time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Room usage optimization in timetabling: A case study at Universidade de Lisboa</title>
       <link>http://web.ist.utl.pt/ist173316/publication/timetables/</link>
       <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
@@ -136,15 +145,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://web.ist.utl.pt/ist173316/talk/summerschoolporto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Participation in SAT/SMT/AR Summer School 2016</title>
-      <link>http://web.ist.utl.pt/ist173316/talk/summerschool/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://web.ist.utl.pt/ist173316/talk/summerschool/</guid>
       <description></description>
     </item>
     
